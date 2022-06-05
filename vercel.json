@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://plutotz163api.vercel.app/:match*"
+    }
+  ]
+}
